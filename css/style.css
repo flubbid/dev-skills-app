@@ -20,3 +20,13 @@ ul {
     color: #FFB450;
 
 }
+
+li{
+    margin: 5px;
+}
+span {
+    color: white;
+    background-color: #E16566;
+    padding: 3px;
+    margin: 5px;
+}
