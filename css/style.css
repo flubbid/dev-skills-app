@@ -1,0 +1,22 @@
+body {
+    border: 3px solid gray;
+    height: 100vh;
+}
+h1 {
+    background-color: #93C481;
+    color: white;
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+}
+
+input, button {
+    border: 3px solid #93C481;
+    color: #93C481;
+}
+
+ul {
+    list-style: none;
+    color: #FFB450;
+
+}
